@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsportsManager.UI", "EsportsManager\EsportsManager.UI.csproj", "{8C99F327-A2FA-4998-AF5F-08C054E6D358}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EsportsManager.DAL", "EsportsManager.DAL\EsportsManager.DAL.xproj", "{CC953A54-8126-4DB7-ABE3-52A9759C2754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C99F327-A2FA-4998-AF5F-08C054E6D358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C99F327-A2FA-4998-AF5F-08C054E6D358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C99F327-A2FA-4998-AF5F-08C054E6D358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C99F327-A2FA-4998-AF5F-08C054E6D358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC953A54-8126-4DB7-ABE3-52A9759C2754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC953A54-8126-4DB7-ABE3-52A9759C2754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC953A54-8126-4DB7-ABE3-52A9759C2754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC953A54-8126-4DB7-ABE3-52A9759C2754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
